@@ -2,7 +2,7 @@
 
 # para rodar ./script.sh  "Palavra chave"
 
-rm templinks templinks2 2=/dev/null >/dev/null
+rm templinks templinks2 2>/dev/null >/dev/null
 touch templinks
 touch templinks2
 
